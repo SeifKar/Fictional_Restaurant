@@ -1,1 +1,1 @@
-# Fictional_Restaurant
+Initial project copy for fictional restaurant
